@@ -1,4 +1,4 @@
-import{ Given, When, Then, And } from '@cocumber/cocumber'
+import { Given, When, Then, And } from '@cocumber/cocumber'
 
 
 
@@ -21,7 +21,7 @@ And('seleciono o destino como {string}', function (string) {
 
 
 
-When('clico no botao {string}', function (string) {
+And('clico no botao {string}', function (string) {
 
 });
 
