@@ -34,8 +34,36 @@ Nomenclatura
 - Cucumber/Behave/SpecFlow são exemplos de plugins que fazem a integração entre arquivos .features
   com arquivos .spec.js 
              
+- Page Objects / Page Factory: separar o mapeamento dos elementos da interface gráfica (páginas, telas) 
+  do codigo de automação
+  --> Pages com mapeamento de elementos
+  --> Steps com os scripts de automação
+  --> Features com os cenários de teste
 
   Em um projeto simples, cada teste é um arquivo .spec.js diferente
   Em um projeto com Gherkin, cada teste é composto por um arquivo .feature + um arquivo steps.js
              
 
+Dependencias removidas:
+ "@types/node": "^25.5.2",
+ "playwright-bdd": "^8.5.0"  
+
+
+
+ Diferenças de sintaxe conforme o type definido no package.json
+
+ commonjs --> const ... = require('...')
+ module   --> import ... from ...
+
+
+ Sobra execução sincrona ( uma parte espera a outra/ Ex: do telefone) e 
+ assincrona ( a parte emissona não espera/ Ex. da mensagem do WatsApp)
+
+ Sem async/await: transação sincrona
+ Com async/await: transação assincrona
+
+ Estamos usando 2 frameworks:
+ - Playwright (controla o browser) --> timeout (msg específica que pode explicar a causa)
+ - CucumberJS (organização)        --> timeout (msg genérica que não vai explicar a causa)
+
+Situação da aula: funcionava sem o await e não funcionaca com await
