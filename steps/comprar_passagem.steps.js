@@ -22,7 +22,7 @@ When('seleciono o destino como {string}', async function (destino) {
  
 // Versão que clica no botão a partir do texto escrito no botão
 When('clico no botao {string}', async function (texto_botao) {
-    await this.clicar_botao(texto_botao)
+    await this.homePage.clicar_find_flights(texto_botao)
 });
  
 // Exemplo conforme o cenário simples (sem o texto "Find Flights")
@@ -44,7 +44,7 @@ Then('verifico se a url contem {string}', async function (pagina) {
  
 When('seleciono o voo {string} da companhia {string}', async function (voo, companhia) {
     await this.reservePage.selecionar_voo(voo, companhia)
-});
+})
  
  
 When('preencho o nome como {string}', async function (nome) {
@@ -55,15 +55,14 @@ When('preencho o nome como {string}', async function (nome) {
 When('seleciono a bandeira do cartao como {string}', async function (bandeira) {
     await this.purchasePage.selecionar_bandeira(bandeira)
 });
-  
-
+ 
+ 
 When('marco a opcao {string}', async function (string) {
     // Não estamos usando o parametro que é recebido neste bloco
     await this.purchasePage.marcar_lembrete()
 });
- 
- 
-// then('clico no botao {string}', async function (string) {
+  
+// When('clico no botao {string}', async function (string) {
 //     // Não estamos usando o parametro que é recebido neste bloco
 //     await this.purchasePage.comprar_passagem()
 // });
@@ -88,6 +87,3 @@ Then('se contem a informacao {string} como {string}', async function (quantia, p
 Then('verifico o texto Flights from {string} to {string}', async function (origem, destino) {
     await expect(this.page.locator(this.reservePage.titulo)).toHaveText(`Flights from ${origem} to ${destino}:`)
 });
- 
- 
- 

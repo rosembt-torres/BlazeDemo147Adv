@@ -23,6 +23,11 @@ class HomePage{                    // padrão para type = commonjs
         await this.page.locator(this.btnFindFlights).click()
     }
  
+   // Este seria para o exemplo sem parametro (texto no botão)
+   async clicar_find_flights(texto_botao){
+        await this.page.getByRole('button', { name: texto_botao }).click()
+   }
+      
     // Jeito "Rebelde" - verificação dentro do mapeamento
     async verificar_mensagem_boas_vindas(){
         // espera o seletor indicado carregar: Texto que serve de titulo da página

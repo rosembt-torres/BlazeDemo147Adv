@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 4475937600
+              "duration": 410588900
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7664038899
+              "duration": 6417755700
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 47071399
+              "duration": 31497100
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 21237199
+              "duration": 19969500
             }
           },
           {
@@ -66,7 +66,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 558813299
+              "duration": 398724099
             }
           },
           {
@@ -79,7 +79,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 109708399
+              "duration": 84189900
             }
           },
           {
@@ -92,7 +92,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 23911400
+              "duration": 15323599
             }
           },
           {
@@ -105,7 +105,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 398172199
+              "duration": 360490499
             }
           },
           {
@@ -118,7 +118,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 76737600
+              "duration": 72389600
             }
           },
           {
@@ -131,7 +131,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 76083699
+              "duration": 21885300
             }
           },
           {
@@ -144,7 +144,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 18436399
+              "duration": 25706100
             }
           },
           {
@@ -157,7 +157,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 60949200
+              "duration": 60201600
             }
           },
           {
@@ -170,7 +170,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 434322600
+              "duration": 367929799
             }
           },
           {
@@ -183,7 +183,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 86307299
+              "duration": 72926699
             }
           },
           {
@@ -192,11 +192,11 @@
             "line": 17,
             "name": "se exibe a mensagem de agradecimento \"Thank you for your purchase today!\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:73"
+              "location": "steps\\comprar_passagem.steps.js:72"
             },
             "result": {
               "status": "passed",
-              "duration": 15770899
+              "duration": 15058199
             }
           },
           {
@@ -205,11 +205,11 @@
             "line": 18,
             "name": "se contem a informacao \"Amount\" como \"555 USD\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:79"
+              "location": "steps\\comprar_passagem.steps.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 15252300
+              "duration": 31077799
             }
           },
           {
@@ -217,7 +217,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 259941299
+              "duration": 141491500
             }
           }
         ],
@@ -236,7 +236,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 412567800
+              "duration": 370181800
             }
           },
           {
@@ -249,7 +249,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2151248999
+              "duration": 1666361100
             }
           },
           {
@@ -262,7 +262,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 16147499
+              "duration": 15417999
             }
           },
           {
@@ -275,7 +275,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 16382499
+              "duration": 17489999
             }
           },
           {
@@ -288,7 +288,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1431514799
+              "duration": 346032399
             }
           },
           {
@@ -297,11 +297,11 @@
             "line": 25,
             "name": "verifico o texto Flights from \"São Paolo\" to \"London\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:88"
+              "location": "steps\\comprar_passagem.steps.js:87"
             },
             "result": {
               "status": "passed",
-              "duration": 74254899
+              "duration": 86876499
             }
           },
           {
@@ -314,7 +314,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 6424500
+              "duration": 4309999
             }
           },
           {
@@ -327,7 +327,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 353275900
+              "duration": 348908099
             }
           },
           {
@@ -340,7 +340,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 53577399
+              "duration": 51022099
             }
           },
           {
@@ -353,7 +353,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 26844099
+              "duration": 15833599
             }
           },
           {
@@ -366,7 +366,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 21140299
+              "duration": 9490400
             }
           },
           {
@@ -379,7 +379,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 139899700
+              "duration": 65548200
             }
           },
           {
@@ -392,7 +392,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 395591899
+              "duration": 337649099
             }
           },
           {
@@ -405,7 +405,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 63197500
+              "duration": 82369200
             }
           },
           {
@@ -414,11 +414,11 @@
             "line": 34,
             "name": "se exibe a mensagem de agradecimento \"Thank you for your purchase today!\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:73"
+              "location": "steps\\comprar_passagem.steps.js:72"
             },
             "result": {
               "status": "passed",
-              "duration": 8787700
+              "duration": 6536299
             }
           },
           {
@@ -427,11 +427,11 @@
             "line": 35,
             "name": "se contem a informacao \"Amount\" como \"555 USD\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:79"
+              "location": "steps\\comprar_passagem.steps.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 13238699
+              "duration": 9495300
             }
           },
           {
@@ -439,7 +439,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 171282100
+              "duration": 149211699
             }
           }
         ],
@@ -458,7 +458,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 384483699
+              "duration": 325451900
             }
           },
           {
@@ -471,7 +471,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2415105700
+              "duration": 1657173100
             }
           },
           {
@@ -484,7 +484,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 14703399
+              "duration": 14090500
             }
           },
           {
@@ -497,7 +497,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 12085799
+              "duration": 14189899
             }
           },
           {
@@ -510,7 +510,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 712462700
+              "duration": 335242599
             }
           },
           {
@@ -519,11 +519,11 @@
             "line": 25,
             "name": "verifico o texto Flights from \"Portland\" to \"Dublin\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:88"
+              "location": "steps\\comprar_passagem.steps.js:87"
             },
             "result": {
               "status": "passed",
-              "duration": 65578799
+              "duration": 74143599
             }
           },
           {
@@ -536,7 +536,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4857899
+              "duration": 4380199
             }
           },
           {
@@ -549,7 +549,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 567926700
+              "duration": 336762599
             }
           },
           {
@@ -562,7 +562,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 59033100
+              "duration": 59582500
             }
           },
           {
@@ -575,7 +575,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 22199000
+              "duration": 16118500
             }
           },
           {
@@ -588,7 +588,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 12027299
+              "duration": 14898600
             }
           },
           {
@@ -601,7 +601,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 53159899
+              "duration": 53826499
             }
           },
           {
@@ -614,7 +614,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 544366599
+              "duration": 347223300
             }
           },
           {
@@ -627,7 +627,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 85657100
+              "duration": 77950000
             }
           },
           {
@@ -636,11 +636,11 @@
             "line": 34,
             "name": "se exibe a mensagem de agradecimento \"Thank you for your purchase today!\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:73"
+              "location": "steps\\comprar_passagem.steps.js:72"
             },
             "result": {
               "status": "passed",
-              "duration": 6324000
+              "duration": 6091700
             }
           },
           {
@@ -649,11 +649,11 @@
             "line": 35,
             "name": "se contem a informacao \"Amount\" como \"555 USD\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:79"
+              "location": "steps\\comprar_passagem.steps.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 11501899
+              "duration": 9882099
             }
           },
           {
@@ -661,7 +661,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 220619999
+              "duration": 134353500
             }
           }
         ],
@@ -680,7 +680,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 333316500
+              "duration": 348424200
             }
           },
           {
@@ -693,7 +693,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2102277999
+              "duration": 1986925499
             }
           },
           {
@@ -706,7 +706,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 14358400
+              "duration": 12681300
             }
           },
           {
@@ -719,7 +719,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 16347200
+              "duration": 15465200
             }
           },
           {
@@ -732,7 +732,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 432843300
+              "duration": 325756800
             }
           },
           {
@@ -741,11 +741,11 @@
             "line": 25,
             "name": "verifico o texto Flights from \"Boston\" to \"New York\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:88"
+              "location": "steps\\comprar_passagem.steps.js:87"
             },
             "result": {
               "status": "passed",
-              "duration": 79666699
+              "duration": 77636800
             }
           },
           {
@@ -758,7 +758,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7144500
+              "duration": 5280099
             }
           },
           {
@@ -771,7 +771,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 462651200
+              "duration": 337242400
             }
           },
           {
@@ -784,7 +784,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 61635399
+              "duration": 61589600
             }
           },
           {
@@ -797,7 +797,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15337999
+              "duration": 18215800
             }
           },
           {
@@ -810,7 +810,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 10305299
+              "duration": 16318699
             }
           },
           {
@@ -823,7 +823,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 54441100
+              "duration": 58555700
             }
           },
           {
@@ -836,7 +836,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 582577900
+              "duration": 365814099
             }
           },
           {
@@ -849,7 +849,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 78402699
+              "duration": 74950099
             }
           },
           {
@@ -858,11 +858,11 @@
             "line": 34,
             "name": "se exibe a mensagem de agradecimento \"Thank you for your purchase today!\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:73"
+              "location": "steps\\comprar_passagem.steps.js:72"
             },
             "result": {
               "status": "passed",
-              "duration": 6673599
+              "duration": 7204600
             }
           },
           {
@@ -871,11 +871,11 @@
             "line": 35,
             "name": "se contem a informacao \"Amount\" como \"555 USD\"",
             "match": {
-              "location": "steps\\comprar_passagem.steps.js:79"
+              "location": "steps\\comprar_passagem.steps.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 8995800
+              "duration": 8951499
             }
           },
           {
@@ -883,7 +883,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 179268299
+              "duration": 132232299
             }
           }
         ],
